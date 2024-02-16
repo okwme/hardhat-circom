@@ -40,7 +40,7 @@
     "undici": "^5.12.0"
   },
   "peerDependencies": {
-    "hardhat": "^2.0.0"
+    "hardhat": "^2.20.0"
   },
   "devDependencies": {
     "@projectsophon/eslint-config": "0.0.2",
@@ -54,7 +54,7 @@
     "@types/shimmer": "^1.0.2",
     "chai": "^4.3.6",
     "eslint": "^7.25.0",
-    "hardhat": "^2.9.1",
+    "hardhat": "^2.20.0",
     "mocha": "^8.0.1",
     "prettier": "^2.5.1",
     "ts-node": "^8.1.0",
